@@ -1,0 +1,10 @@
+{
+  "location": "Exeter",
+  "location_type":"ltla",
+  "covid_update_interval": 10,
+  "news_update_interval": 15,
+  "csv_data_filename": "nation_2021-10-28.csv",
+  "news_api_url": "https://newsapi.org/v2/top-headlines?q=",
+  "api_key":  "&apiKey=86ca66ce72454344aab664e78bf5ca55",
+  "log_data_filename": "covid_logs.log"
+}
